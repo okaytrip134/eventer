@@ -29,7 +29,7 @@ const Navbar = () => {
         </nav>
 
         {/* Logo */}
-        <h1 className="text-3xl tracking-widest cursor-pointer " style={{ fontFamily: 'var(--font-primary)' }}>
+        <h1 className="text-3xl tracking-widest cursor-pointer " style={{ fontFamily: 'var(--font-font-third)' }}>
           AS PRODUCTIONS
         </h1>
 

@@ -56,7 +56,7 @@ const HeroSection = () => {
 
       {/* Hero Content */}
       <div className="relative z-10 h-full flex flex-col items-center justify-center text-center text-white px-6">
-        <h2 className="text-4xl md:text-8xl font-[--font-secondary] mb-4 leading-tight">
+        <h2 className="text-4xl md:text-6xl lg:text-7xl font-[--font-secondary] mb-4 leading-tight">
           Wedding & Event Planner <br /> Portland & Seattle
         </h2>
         <p className="uppercase tracking-widest text-sm md:text-base max-w-2xl " style={{ fontFamily: 'var(--font-primary)' }}>

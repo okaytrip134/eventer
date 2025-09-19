@@ -1,5 +1,6 @@
 /* ✅ Import Google Fonts FIRST */
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Josefin+Sans:wght@300;400;600;700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/noir-et-blanc');
 
 /* ✅ Then import Tailwind (important to keep this AFTER Google Fonts) */
 @import "tailwindcss";
@@ -8,6 +9,7 @@
 :root {
   --font-primary: 'Josefin Sans', sans-serif;
   --font-secondary: 'Cinzel Decorative', serif;
+  --font-third: 'Noir-et-Blanc', sans-serif;
 }
 
 /* ✅ Use variables in your styles */

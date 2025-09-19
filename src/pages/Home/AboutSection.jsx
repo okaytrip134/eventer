@@ -18,7 +18,7 @@ const AboutSection = () => {
 
   return (
     <section className="bg-[#f6f8f9] py-20">
-      <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-40 items-center ">
+      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-5 items-center ">
         {/* Left Column */}
         <div>
           {/* Logo */}
